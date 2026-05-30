@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedender",
+        "uuid": 1594906,
+        "checksum": "i6yw8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
